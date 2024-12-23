@@ -81,10 +81,10 @@ social_image = "icons/github.svg"
 
 # The profile on home page.
 [extra.profile]
-name = "Dzikri"
-bio = "Muslim Pro | Pythonista | Data Enthusiast | Analytics "
+name = "Dzikri Hakim"
+bio = "Muslem | Pythonista | Data Enthusiast | Analytics | Productivity  "
 # The URL of avatar.
-avatar_url = "https://i.ibb.co.com/wQbxpFR/picofme-1.png"
+avatar_url = "icons/prodz.svg"
 # Invert color in dark mode.
 avatar_invert = true
 
