@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "https://dzikri.my.id"
+# base_url = "https://dzikri.my.id"
+base_url = "https://stunning-profiterole-6d8f0b.netlify.app"
 
 title="Dzikri"
 description="This blog is my space to share knowledge dan experinces."
